@@ -1,0 +1,75 @@
+﻿body {
+    direction:rtl;
+    background-color:#e6dbbb;
+    font-family:Tahoma;
+}
+
+
+.hd
+{
+    text-align:center;
+    vertical-align:middle;
+    height:120px;
+    background-color:#e4afaf;
+    color:yellow;
+    background-image: url('/images/Logo.jpg');
+     background-repeat:no-repeat;
+     background-position-x:center;
+}
+
+.ft
+{
+    text-align:center;
+    vertical-align:middle;
+    height:80px;
+    background-color:#e4afaf;
+}
+.mnuSec
+{
+
+     text-align:right;
+    vertical-align:top;
+    height:600px;
+    width:10%;
+     background-color:#e4afaf;
+}
+.ContentSec
+{
+
+     text-align:right;
+    vertical-align:top;
+    height:600px;
+    width:90%;
+    background-color:white;
+    border:solid;
+}
+
+
+.obj
+{
+    font-family:Tahoma;
+}
+
+.vld
+{
+    color:red;
+}
+
+
+.exam_header
+{
+    height:200px;
+}
+.exam_left
+{
+    width:10%;
+    vertical-align:top;
+    text-align:left;
+}
+
+.exam_right
+{
+    width:90%;
+    vertical-align:top;
+    text-align:right;
+}
